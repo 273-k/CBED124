@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\273-k\CBED124\Ders4_19092024\ConsoleApp1test3\ConsoleApp1test3\bin\Debug\net8.0\ConsoleApp1test3.exe
+C:\Users\Lenovo\source\repos\273-k\CBED124\Ders4_19092024\ConsoleApp1test3\ConsoleApp1test3\bin\Debug\net8.0\ConsoleApp1test3.deps.json
+C:\Users\Lenovo\source\repos\273-k\CBED124\Ders4_19092024\ConsoleApp1test3\ConsoleApp1test3\bin\Debug\net8.0\ConsoleApp1test3.runtimeconfig.json
+C:\Users\Lenovo\source\repos\273-k\CBED124\Ders4_19092024\ConsoleApp1test3\ConsoleApp1test3\bin\Debug\net8.0\ConsoleApp1test3.dll
+C:\Users\Lenovo\source\repos\273-k\CBED124\Ders4_19092024\ConsoleApp1test3\ConsoleApp1test3\bin\Debug\net8.0\ConsoleApp1test3.pdb
+C:\Users\Lenovo\source\repos\273-k\CBED124\Ders4_19092024\ConsoleApp1test3\ConsoleApp1test3\obj\Debug\net8.0\ConsoleApp1test3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\273-k\CBED124\Ders4_19092024\ConsoleApp1test3\ConsoleApp1test3\obj\Debug\net8.0\ConsoleApp1test3.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\273-k\CBED124\Ders4_19092024\ConsoleApp1test3\ConsoleApp1test3\obj\Debug\net8.0\ConsoleApp1test3.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\273-k\CBED124\Ders4_19092024\ConsoleApp1test3\ConsoleApp1test3\obj\Debug\net8.0\ConsoleApp1test3.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\273-k\CBED124\Ders4_19092024\ConsoleApp1test3\ConsoleApp1test3\obj\Debug\net8.0\ConsoleApp1test3.dll
+C:\Users\Lenovo\source\repos\273-k\CBED124\Ders4_19092024\ConsoleApp1test3\ConsoleApp1test3\obj\Debug\net8.0\refint\ConsoleApp1test3.dll
+C:\Users\Lenovo\source\repos\273-k\CBED124\Ders4_19092024\ConsoleApp1test3\ConsoleApp1test3\obj\Debug\net8.0\ConsoleApp1test3.pdb
+C:\Users\Lenovo\source\repos\273-k\CBED124\Ders4_19092024\ConsoleApp1test3\ConsoleApp1test3\obj\Debug\net8.0\ConsoleApp1test3.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\273-k\CBED124\Ders4_19092024\ConsoleApp1test3\ConsoleApp1test3\obj\Debug\net8.0\ref\ConsoleApp1test3.dll
